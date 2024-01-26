@@ -17,3 +17,12 @@ h4 {
     background-color: black;
     color: white;
 }
+
+p{
+    color : purple ;
+    background-color: yellow;
+}
+
+div {
+    text-decoration:  wavy underline;
+}
